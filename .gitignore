@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/weatherapp-homework/node_modules
+/weatherapp-homework/.pnp
+/weatherapp-homework.pnp.js
+
+# testing
+/weatherapp-homework/coverage
+
+# production
+/weatherapp-homework/build
+
+# misc
+/weatherapp-homework.DS_Store
+/weatherapp-homework.env.local
+/weatherapp-homework.env.development.local
+/weatherapp-homework.env.test.local
+/weatherapp-homework.env.production.local
+
+/weatherapp-homework/npm-debug.log*
+/weatherapp-homework/yarn-debug.log*
+/weatherapp-homework/yarn-error.log*
